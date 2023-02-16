@@ -1,0 +1,58 @@
+[
+
+    {
+      "img": "http://localhost:5173/src/assets/img-01.jpeg",
+      "title": "O Python do vovô não sobe mais",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "São Paulo - SP"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-02.jpeg",
+      "title": "Todo mundo null",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "Florianópolis - SC"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-03.jpeg",
+      "title": "Hoje dou exception",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "Curitiba - PR"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-04.jpeg",
+      "title": "Manda Node",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "Salvador - BA"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-05.jpeg",
+      "title": "Só no back-end",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "São Paulo - SP"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-06.jpeg",
+      "title": "Esse anel não é de Ruby",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "São Paulo - SP"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-07.jpeg",
+      "title": "EnCACHE aqui",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "Porto Alegre - RS"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-08.jpeg",
+      "title": "Pimenta no C# dos outros é refresco",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "Rio de Janeiro - RJ"
+    },
+    {
+      "img": "http://localhost:5173/src/assets/img-09.jpeg",
+      "title": "Não valho nada mas JAVA li",
+      "subtitle": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "location": "São Paulo - SP"
+    }
+  
+]
